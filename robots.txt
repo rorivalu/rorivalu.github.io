@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rorivalu.github.io/sitemap.html.gz
+Sitemap: https://rorivalu.github.io/app/sitemap.html.gz
+Sitemap: https://rorivalu.github.io/assets/sitemap.html.gz
+Sitemap: https://rorivalu.github.io/css/sitemap.html.gz
+Sitemap: https://rorivalu.github.io/includes/sitemap.html.gz
+Sitemap: https://rorivalu.github.io/item/sitemap.html.gz
+Sitemap: https://rorivalu.github.io/src/sitemap.html.gz
